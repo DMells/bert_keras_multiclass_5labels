@@ -1,5 +1,5 @@
 # bert_keras_multiclass_5labels
-A simple multiclass text classification model I have built from scratch using tensorflow/keras, and using transfer learning to make use of Google BERT. 
+A multiclass text classification model I have built from scratch using tensorflow/keras, and using transfer learning to make use of Google BERT. 
 
 The model trains well with a prediction accuracy of 87%. 
 
